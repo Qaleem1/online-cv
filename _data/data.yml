@@ -1,0 +1,147 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Qaleem Hussain
+    tagline: Automation Engineer
+    avatar: avatar.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: qaleemhussain@gmail.com
+    phone: 
+    website: linkedin.com/in/qaleem #do not add http://
+    linkedin:
+    github: Qaleem1
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: 
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: English
+        level: Native
+
+    qualifications:
+      - item: AWS Solutions Architect - Associate 
+        link:
+
+      - item: ISTQB Foundation Level
+        link:
+
+      - item: Labview Core 1 and 2
+        link:
+      
+      - item: Six sigma - Yellow belt
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      I am a highly skilled, solutions-focussed Electrical and Electronic Engineer with extensive manual and automation experience in designing, developing and managing testing environments. I am well-rounded, consistent with strong technical knowledge and a passion for learning and adapting new technology, I use my full range of communication, leadership and technical skills to deliver bespoke multi-faceted projects within deadlines.
+education:
+    - degree: Beng Electrical and Electronic engineering
+      university: University of Manchester
+      time: 2009 - 2011
+      details: |
+        A developed strong knowledge of core concepts in Electrical and Electronic Engineering.
+          - Electronics modules include, Microcomputer engineering, Circuit analysis, Digital system design including FPGA,VHDL design, EMF, Circuit design, Communication systems & Measurements, Java, embedded C programming, Signals and systems, control systems, analogue and digital communication, Transmissions lines and Computer Systems Architecture.
+          - Electrical modules include, Energy Transport and Conversion, Machines, Drives & Power electronics, Generation and Transport of Electrical Energy, Power System Plant & Protection, Electrical Drive Systems. Drive Systems.
+          - Final year microelectronics project, fabricating transparent thin film transistors, measuring its DC characterisation and low frequency noise effects. Adequate theoretical, professional research and practical testing skills were gained over the year in a specialised area of study.
+          
+experiences:
+    - role: Senior Test and Intergration Engineer - Automation 
+      time: 2020 - Present
+      company: Raytheon, Manchester
+      details: |
+        Cybersecurity and Defence
+
+    - role: Senior Test Analyst - Smart metering - Automation
+      time: 2018 - 2020
+      company: Telefonica, Northampton
+      details: |
+        Telecommunication/Smart metering
+
+    - role: Infortainment Test and Validation engineer - Automation
+      time: 2017 - 2018
+      company: Jaguar and Land rover, Gaydon
+      details: |
+        Automotive 
+    - role: Test and Validation engineer - Automation
+      time: 2015 - 2017
+      company: Landis + Gyr, Manchester
+      details: |
+        Smart Metering
+projects:
+    title: Projects
+    intro: >
+      Here you can find a list of commercial and personal projects I've been working on .
+    assignments:
+      - title: Cypress BDD Test Automation Framework
+        link: "#hook"
+        tagline: "A complete BDD approach to testing with Cypress including Parallel testing and CI/CD Intergration."
+
+      - title: Ecommerce Android mobile application
+        link: "#"
+        tagline: "A responsive Mobile application designed using Android studio, Google Cloud platforam. Written in Java"
+
+      - title: Automated Smart metering compliance Testing using Labview 
+        link: "#"
+        tagline: "Intergrating a physical Smart metering device to Labview , using a mix of A/DIO and bespoke electronic PCB devices to stimulate user input. Further intergration to link backend of compliance software into Labview"
+
+      - title: Automated Smart metering log capture 
+        link: "#"
+        tagline: "Providing a complete automation solution in log capturing of Smart meters and connected devices. Both wired and wireless (2.4Ghz/5 Ghz) "
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+    - name: Software Testing / Quality Assurance
+      level: 90%
+
+    - name: QA Automation
+      level: 90%
+
+    - name: Selenium /Selenide/ TestnNG / Allure
+      level: 95%
+    
+    - name: Cypress
+      level: 95%
+
+    - name: JMeter / Gatling
+      level: 50%
+
+    - name: Java / OOP / Design Patterns
+      level: 50%
+
+    - name: Javascript / Typescript
+      level: 80%
+
+    - name: Gradle / Maven
+      level: 70%
+
+    - name: Visual Studio Code
+      level: 90%
+
+    - name: Git
+      level: 90%
+
+    - name: Jenkins
+      level: 90%
+
+    - name: Docker
+      level: 70%
+
+    - name: AWS / Google services
+      level: 70%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
